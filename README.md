@@ -23,8 +23,17 @@ There are 8 do files (+master dofile) to run the replication.
 
 Output files are included in the Results folder.
 
-Link to raw data is here: http://jgss.daishodai.ac.jp/english/index.html
+I thank Ryota Mugiyama for sharing his codes to create the time varying occupational variables.
 
+# Data application process
 This study used JGSS-2009LCS (Japanese General Social Survey-2009 Life Course Survey, version 3.0).
 
-I thank Ryota Mugiyama for sharing his codes to create the time varying occupational variables.
+We believe replicating result of analysis is increasingly important in recent years. Therefore, we would like to fully commit to a replication policy. However, unfortunately, the data cannot be provided. The data we used, JGSS-2009 Life Course Survey, was conducted by JGSS Research Center at Osaka University of Commerce and users who want to analyze the data need to submit an application. This note is to deliver how to submit an application to use the data.
+
+Link to raw data is here: http://jgss.daishodai.ac.jp/english/index.html
+
+If you want to use the data, you need to submit an application following the form provided by the center (http://jgss.daishodai.ac.jp/data/dat_top.html), and send it to the address below. 
+
+JGSS Research Center, Osaka University of Commerce, 4-1-10 Mikuriyasakaemachi, Higashiosaka-shi 577-8505, Osaka, Japan
+
+After admitted, you'll receive a CD-ROM which includes sav file for the data.
