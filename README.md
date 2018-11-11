@@ -32,7 +32,7 @@ We believe replicating result of analysis is increasingly important in recent ye
 
 Link to raw data is here: http://jgss.daishodai.ac.jp/english/index.html
 
-If you want to use the data, you need to submit an application following the form provided by the center (http://jgss.daishodai.ac.jp/data/dat_top.html), and send it to the address below. 
+If you want to use the data, you need to submit an application using the form provided by the center (http://jgss.daishodai.ac.jp/data/dat_top.html), and send it to the address below. 
 
 JGSS Research Center, Osaka University of Commerce, 4-1-10 Mikuriyasakaemachi, Higashiosaka-shi 577-8505, Osaka, Japan
 
